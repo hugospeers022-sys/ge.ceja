@@ -1,0 +1,168 @@
+[hugospeers.html](https://github.com/user-attachments/files/23380280/hugospeers.html)
+<!doctype html>
+<html	lang="pt-br">
+	<head>
+		<title> Ge.ceja </title>
+		</head>
+	<style>
+						{background-color: powderblue;}
+						h1   {color: blue;}
+						td  {color: green;}
+						
+						</style>
+		<body>
+			<h1>BRASILEIRÃO 2025</h1>
+			<table border="12">
+				<tr>
+					<td>POSIÇÃO</td>
+					<td>TIMES</td>
+					<td>PONTOS</td>
+					<td>VITORIA</td>
+					<td>DERROTA</td>
+				</tr>
+					<tr>
+					<td>1</td>
+					<td>PALMEIRAS</td>
+					<td>65</td>
+					<td>20</td>
+					<td>5</td>
+				<tr>
+					<td>2</td>
+					<td>FLAMENGO</td>
+					<td>64</td>
+					<td>19</td>
+					<td>4</td>
+				</tr>
+					<tr>
+					<td>3</td>
+					<td>CRUZEIRO</td>
+					<td>60</td>
+					<td>17</td>
+					<td>5</td>
+				</tr>
+					<tr>
+					<td>4</td>
+					<td>MIRASSOL FC</td>
+					<td>56</td>
+					<td>15</td>
+					<td>5</td>
+				</tr>
+					 <tr>
+					<td>5</td>
+					<td>BAHIA</td>
+					<td>52</td>
+					<td>15</td>
+					<td>5</td>
+				</tr>
+					<tr>
+					<td>6</td>
+					<td>BOTAFOGO</td>
+					<td>51</td>
+					<td>14</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>7</td>
+					<td>FLUMINENSE</td>
+					<td>47</td>
+					<td>14</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>8</td>
+					<td>SÃO PAULO</td>
+					<td>45</td>
+					<td>12</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>9</td>
+					<td>VASCO DA GAMA</td>
+					<td>42</td>
+					<td>12</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>10</td>
+					<td>CORINTHIANS</td>
+					<td>42</td>
+					<td>11</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>11</td>
+					<td>ATLETICO-MG</td>
+					<td>40</td>
+					<td>10</td>
+					<td>10</td>
+				</tr>
+					<tr>
+					<td>12</td>
+					<td>BRAGANTINO</td>
+					<td>39</td>
+					<td>11</td>
+					<td>6</td>
+				</tr>
+					<tr>
+					<td>13</td>
+					<td>GREMIO</td>
+					<td>39</td>
+					<td>10</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>14</td>
+					<td>CEARÁ</td>
+					<td>38</td>
+					<td>10</td>
+					<td>8</td>
+				</tr>
+					<tr>
+					<td>15</td>
+					<td>INTERNACIONAL</td>
+					<td>36</td>
+					<td>9</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>16</td>
+					<td>EC VITORIA</td>
+					<td>34</td>
+					<td>8</td>
+					<td>10</td>
+				</tr>
+					<tr>
+					<td>17</td>
+					<td>SANTOS</td>
+					<td>33</td>
+					<td>8</td>
+					<td>9</td>
+				</tr>
+					<tr>
+					<td>18</td>
+					<td>JUVENTUDE</td>
+					<td>29</td>
+					<td>8</td>
+					<td>5</td>
+				</tr>
+					<tr>
+					<td>19</td>
+					<td>FORTALEZA</td>
+					<td>28</td>
+					<td>7</td>
+					<td>7</td>
+				</tr>
+					<tr>
+					<td>20</td>
+					<td>SPORT RECIFE</td>
+					<td>17</td>
+					<td>2</td>
+					<td>11</td>
+				</tr>
+					
+		</table>
+			</body>
+	</html>			
+		
+		
+			
